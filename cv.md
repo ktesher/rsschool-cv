@@ -28,6 +28,6 @@ print(empty_set)
   </html>
   ```
   
-  ## *Education*:***I'm currently in college and finishing my 11th grade***
+  ## *Education:* ***I'm currently in college and finishing my 11th grade***
 
-  ## *English level*:***My level of english:B***
+  ## *English level:* ***My level of english:B***
